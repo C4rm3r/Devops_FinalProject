@@ -1,3 +1,2 @@
 <%="hello DevOps class!!!"%>
-<a href ="http://www.google.com">link</a>
-
+<a href ="https://www.reddit.com/">link</a>
